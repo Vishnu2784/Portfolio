@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Vishnu K
 
-🎓 **B.Sc. Computer Science Graduate** | 💻 Aspiring Software Developer  
+🎓 **B.Sc. Computer Science Graduate** | 💻 Analyst | 🌐 Data & Cloud Enthusiast  
 📍 Pollachi, India | 🌐 [LinkedIn](https://www.linkedin.com/in/vishnu-k-76406b301)  
 
 ---
 
 ## 🚀 About Me
-Enthusiastic and motivated **Computer Science graduate** with a strong foundation in programming and problem-solving.  
-Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining hands-on experience in software development and industry practices.  
+Enthusiastic and motivated **Computer Science graduate** with a strong foundation in programming, data, and problem-solving.  
+Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining hands-on experience in **Data Warehousing, ETL, and Cloud Technologies**.  
 
-- 🌱 Improving expertise in **Java, SQL, and ASP.NET**  
+- 🌱 Improving expertise in **Informatica PowerCenter, Data Warehousing, Azure & Big Data**  
 - 🔒 Built a project: **Image Steganography for Secured Data Transfer** using C#, ASP.NET & SQL Server  
-- 🤝 Looking to collaborate on open-source and software development projects  
+- 🤝 Looking to collaborate on open-source, data engineering, and software development projects  
 - ⚡ Fun fact: I love solving problems creatively and adapting to new challenges  
 
 ---
@@ -20,10 +20,12 @@ Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining han
 
 **Cognizant Technology Solutions**  
 *Trainee Analyst* — *(2025–Present)*  
-- Developing and maintaining enterprise-level applications  
-- Collaborating with teams to deliver software solutions  
-- Enhancing skills in full-stack development and debugging  
-- Exposure to client-oriented projects and Agile methodologies  
+- Hands-on experience in **Informatica PowerCenter (ETL) pipelines**  
+- Working on **Data Warehousing concepts** (ETL, data modeling, schema design, performance tuning)  
+- Exposure to **Azure Cloud Services** for data management & deployment  
+- Learning **Big Data frameworks** for large-scale data processing  
+- Collaborating with teams to deliver enterprise-level software solutions  
+- Following **Agile methodologies** and client-driven development practices  
 
 ---
 
@@ -40,6 +42,10 @@ Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining han
   <img src="https://img.icons8.com/color/48/asp.png" alt="ASP.NET"/>
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/color/48/windows-10.png" alt="Windows"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-azure-microsoft-soft-fill-soft-fill-juicy-fish.png" alt="Azure"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-big-data-data-analytics-flat-flat-juicy-fish.png" alt="Big Data"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-warehouse-computer-network-flaticons-lineal-color-flat-icons.png" alt="Data Warehousing"/>
+  <img src="https://img.icons8.com/fluency/48/cloud-database.png" alt="Informatica PowerCenter"/>
 </p>
 
 ---
@@ -89,4 +95,4 @@ Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining han
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vishnu-k-76406b301)  
 - 🖥️ GitHub: [vishnu2784](https://github.com/vishnu2784)  
 
-⭐ **“Passionate about learning, building, and growing in the world of software development.”**
+⭐ **“Passionate about learning, building, and growing in the world of software development & data engineering.”**
