@@ -1,18 +1,29 @@
 # 👋 Hi, I'm Vishnu K
 
-🎓 **B.Sc. Computer Science Student** | 💻 Aspiring Software Developer  
+🎓 **B.Sc. Computer Science Graduate** | 💻 Aspiring Software Developer  
 📍 Pollachi, India | 🌐 [LinkedIn](https://www.linkedin.com/in/vishnu-k-76406b301)  
 
 ---
 
 ## 🚀 About Me
-Enthusiastic and motivated **Computer Science student** with a strong foundation in programming and problem-solving.  
-I enjoy building innovative projects, exploring new technologies, and continuously improving my skills.  
+Enthusiastic and motivated **Computer Science graduate** with a strong foundation in programming and problem-solving.  
+Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining hands-on experience in software development and industry practices.  
 
-- 🌱 Currently learning **Java, SQL, and ASP.NET**  
+- 🌱 Improving expertise in **Java, SQL, and ASP.NET**  
 - 🔒 Built a project: **Image Steganography for Secured Data Transfer** using C#, ASP.NET & SQL Server  
 - 🤝 Looking to collaborate on open-source and software development projects  
 - ⚡ Fun fact: I love solving problems creatively and adapting to new challenges  
+
+---
+
+## 💼 Work Experience
+
+**Cognizant Technology Solutions**  
+*Trainee Analyst* — *(2025–Present)*  
+- Developing and maintaining enterprise-level applications  
+- Collaborating with teams to deliver software solutions  
+- Enhancing skills in full-stack development and debugging  
+- Exposure to client-oriented projects and Agile methodologies  
 
 ---
 
@@ -60,15 +71,15 @@ I enjoy building innovative projects, exploring new technologies, and continuous
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnu2784&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu2784&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu2784&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -76,6 +87,6 @@ I enjoy building innovative projects, exploring new technologies, and continuous
 ## 📫 Connect with Me
 - 📧 Email: **vishnukrishnamoorthi24@gmail.com**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vishnu-k-76406b301)  
-- 🖥️ GitHub: *(this profile!)*  
+- 🖥️ GitHub: [vishnu2784](https://github.com/vishnu2784)  
 
 ⭐ **“Passionate about learning, building, and growing in the world of software development.”**
