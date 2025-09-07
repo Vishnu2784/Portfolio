@@ -32,8 +32,8 @@ Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining han
 ## 🛠️ Programming Languages & Tools
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
@@ -53,6 +53,21 @@ Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining han
 ![Data Warehousing](https://img.shields.io/badge/Data-Warehousing-blue?style=for-the-badge&logo=databricks&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Big Data](https://img.shields.io/badge/Big%20Data-Hadoop-yellow?style=for-the-badge&logo=apachehadoop&logoColor=black)  
+
+---
+
+## 🧰 Tools I Use
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/color/48/java-eclipse.png" alt="Eclipse"/>
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/dusk/48/postman-api.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring"/>
+  <img src="https://img.icons8.com/color/48/apache-maven.png" alt="Maven"/>
+</p>
 
 ---
 
