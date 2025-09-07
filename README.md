@@ -33,6 +33,7 @@ Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining han
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
