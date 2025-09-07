@@ -29,7 +29,7 @@ Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining han
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Programming Languages & Tools
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
@@ -42,11 +42,16 @@ Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining han
   <img src="https://img.icons8.com/color/48/asp.png" alt="ASP.NET"/>
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
   <img src="https://img.icons8.com/color/48/windows-10.png" alt="Windows"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-azure-microsoft-soft-fill-soft-fill-juicy-fish.png" alt="Azure"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-big-data-data-analytics-flat-flat-juicy-fish.png" alt="Big Data"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-warehouse-computer-network-flaticons-lineal-color-flat-icons.png" alt="Data Warehousing"/>
-  <img src="https://img.icons8.com/fluency/48/cloud-database.png" alt="Informatica PowerCenter"/>
 </p>
+
+---
+
+## ☁️ Data & Cloud Skills
+
+![Informatica PowerCenter](https://img.shields.io/badge/Informatica-PowerCenter-orange?style=for-the-badge&logo=apache-airflow&logoColor=white)  
+![Data Warehousing](https://img.shields.io/badge/Data-Warehousing-blue?style=for-the-badge&logo=databricks&logoColor=white)  
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Big Data](https://img.shields.io/badge/Big%20Data-Hadoop-yellow?style=for-the-badge&logo=apachehadoop&logoColor=black)  
 
 ---
 
