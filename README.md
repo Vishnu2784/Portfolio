@@ -55,21 +55,22 @@ Currently working as a **Trainee Analyst at Cognizant**, where I’m gaining han
 ![Big Data](https://img.shields.io/badge/Big%20Data-Hadoop-yellow?style=for-the-badge&logo=apachehadoop&logoColor=black)  
 
 ---
-
 ## 🧰 Tools I Use
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/color/48/java-eclipse.png" alt="Eclipse"/>
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/dusk/48/postman-api.png" alt="Postman"/>
   <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring"/>
-  <img src="https://img.icons8.com/color/48/apache-maven.png" alt="Maven"/>
 </p>
 
----
+### 🔹 Additional Tools
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)  
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
+![Informatica PowerCenter](https://img.shields.io/badge/Informatica-PowerCenter-orange?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
 
 ## 📌 Projects
 
